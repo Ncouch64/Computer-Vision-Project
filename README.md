@@ -3,7 +3,7 @@ This is the code for the Computer Vision Final Project. In order to run the code
 
 ![alt text](image.png)
 
-This dataset cannot be included in the repo and the request of the kitti team and must be downloaded seperately.
+This dataset cannot be included in the repo at the request of the kitti team and must be downloaded seperately.
 
 ## Installation
 To run the code you will need to follow a few simple steps.
